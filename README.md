@@ -5,7 +5,7 @@ Supports conversion between Gregorian Calendar dates, Mayan Long Count dates, an
 
 **A more user-friendly web implementation can be found on [my calculator website](https://polar-gorge-17146.herokuapp.com/).**
 
-*Want a lightweight C widget that prints the current Mayan date? See [here](https://github.com/pinkavat/currentMayanDate)!*
+*Want a lightweight C widget that prints today's Mayan date? See [here](https://github.com/pinkavat/currentMayanDate)!*
 
 ## Installation
 
@@ -25,7 +25,7 @@ The fields at the top populate automatically when the dates are computed; the ap
 
 To compute a new date, enter the relevant information in the relevant fields, then press the button below corresponding to which data were entered. The applet will compute the new date, change the fields to match, and print detailed information about the date in the box below.
 
-
+---
 
 The bottom of the window contains a prototype function for computing possible dates matching a given Calendar Round. Since the Calendar Round is a cyclic measure of time, it is an insufficient datum to compute an absolute date. 
 
@@ -35,4 +35,8 @@ To use the recovery function, enter the Calendar Round in the given fields, and 
 
 ---
 
-For more information about the Mayan Calendar, consult *Reading the Maya Glyphs*(Coe & Stone, 2001; ISBN 0-500-05110-0) or *Translating Maya Hieroglyphs*(Johnson, 1983; ISBN 978-0-8061-4333-0). Since the Mayan Calendar is by far the most common form of Mayan hieroglyphic writing, it is discussed in most overviews of Mayan epigraphy.
+For more information about the Mayan Calendar, consult
+- *Reading the Maya Glyphs*  (Coe & Stone, 2001; ISBN 0-500-05110-0)
+or
+- *Translating Maya Hieroglyphs*  (Johnson, 1983; ISBN 978-0-8061-4333-0).
+Since the Mayan Calendar is by far the most common form of Mayan hieroglyphic writing, it is discussed in most overviews of Mayan epigraphy.
