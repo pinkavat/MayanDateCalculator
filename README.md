@@ -36,7 +36,11 @@ To use the recovery function, enter the Calendar Round in the given fields, and 
 ---
 
 For more information about the Mayan Calendar, consult
+
 - *Reading the Maya Glyphs*  (Coe & Stone, 2001; ISBN 0-500-05110-0)
+
 or
+
 - *Translating Maya Hieroglyphs*  (Johnson, 1983; ISBN 978-0-8061-4333-0).
+
 Since the Mayan Calendar is by far the most common form of Mayan hieroglyphic writing, it is discussed in most overviews of Mayan epigraphy.
